@@ -1,0 +1,6 @@
+MiDiccionario = {
+    "nombre" : "Martha",
+    "edad" : 55,
+    "Genero" :"Femenino"
+}
+print(MiDiccionario)
